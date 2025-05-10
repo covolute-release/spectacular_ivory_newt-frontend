@@ -13,6 +13,11 @@ const Hero = () => {
             Template by Shopable
           </Heading>
         </span>
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/shopable-60057.firebasestorage.app/o/stores%2Fa891465c-9d36-4151-98d7-2c2eeaf6322b%2Fimages%2Fgenerated-32e7237c-7767-4c8b-a2be-8ea8337d405d.png?alt=media"
+          alt="Ugly Cat Sketch"
+          className="w-48 h-48 object-contain my-4"
+        />
         <a
           href="https://shopable.dev/"
           target="_blank"
